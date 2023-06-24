@@ -1,7 +1,9 @@
 book_filename: "bookdown-start"
-chapter_name: "Chapter "
+chapter_name: ""
 repo: https://github.com/seankross/bookdown-start
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+rmd_files: ["index.Rmd", "s1.Rmd", "s2.Rmd","s3.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
+dir: "rtl"
+delete_merged_file: True

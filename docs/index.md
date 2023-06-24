@@ -1,17 +1,17 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "برنامج التعليم الإلكتروني"
+author: "أبشروا"
+#date: "2023-06-24"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
+#github-repo: seankross/bookdown-start
 url: 'http\://seankross.com/bookdown-start/'
 description: "Everything you need (and nothing more) to start a bookdown book."
 ---
 
-# Preface {-}
+# مقدمة {-}
 
-This is the very first part of the book.
+بكالوريوس في الشريعة الإسلامية واللغة العربية

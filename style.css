@@ -12,3 +12,31 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.row{
+  flex-direction: row-reverse;
+}
+header{
+  direction: rtl;
+  text-align: right;
+}
+
+body{
+  direction: rtl;
+  text-align: right;
+}
+
+
+main{
+  direction: rtl;
+  text-align: right;
+}
+nav{
+  direction: rtl;
+  text-align: right;
+}
+pre{
+  direction: ltr !important;
+  text-align: left !important;
+}
+
